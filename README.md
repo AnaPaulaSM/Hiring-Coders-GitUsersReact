@@ -1,7 +1,9 @@
-Introdução ao Create React App
+
+Este projeto foi desenvolvido utilizando o framework React e linguagem Typescript.
+
 Este projeto foi inicializado com o Create React App.
 
-Scripts Disponíveis
+#Scripts Disponíveis\
 No diretório do projeto, você pode executar:
 
 ### `npm start`
